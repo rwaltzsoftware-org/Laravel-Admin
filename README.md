@@ -2,7 +2,7 @@
 
 This repository will make you know about the codinng standards and folder structures we strictly follow.
 
-Have a look on the design atterns.
+Have a look on the design patterns.
 We follow PSR-4 coding standards
 
 
